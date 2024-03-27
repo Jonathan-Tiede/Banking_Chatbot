@@ -1,3 +1,5 @@
+xxxxx ADD PICTURES BELOW xxxxx
+
 # Building A Banking Chatbot Using Google's Dialogflow NLP Model
 ## Objective
 With cloud computing becoming mainstream, its reach knows almost no bounds. It is a technology that many in the industry should learn and benefit from. This is my foray into cloud technologies using Google's Dialogflow; a natural language processing (NLP) AI centered around user/AI interaction... a chatbot. Dialogflow has a very user-friendly interface, intuitive design and enough options available to cater to many company's or people's needs. When paired with a backend server such as FastAPI, the interactivity truly becomes limitless.
